@@ -100,7 +100,7 @@ KB_MATRIX_LAYER(
 	// right hand
 	0,	0,	0,	0,	0,	0,	0,	
 	0,	KEY_Backslash_Pipe,	KEY_7_Ampersand,	0x31,	KEY_NonUS_Pound_Tilde,	0,	0,	
-	0x2D,	KEY_9_LeftParenthesis,	KEY_LeftBracket_LeftBrace,	KEY_LeftBracket_LeftBrace,	KEY_Slash_Question,	0,	
+	0x2D,	KEY_9_LeftParenthesis,	KEY_LeftBracket_LeftBrace,	KEY_LeftBracket_LeftBrace,	KEYPAD_SLASH,	0,	
 	0,	0,	KEY_0_RightParenthesis,	KEY_RightBracket_RightBrace,	KEY_LeftBracket_LeftBrace,	KEY_2_At,	0,	
 	0,	0,	0,	0,	0,	
 	0,	0,	
