@@ -69,19 +69,19 @@ KB_MATRIX_LAYER(
 	0,	0,	0,	0,	0,	0,	0,	
 	0,	0,	KEY_v_V,	KEY_x_X,	KEY_p_P,	KEY_y_Y,	KEY_Escape,	
 	KEY_LeftShift,	KEY_a_A,	KEY_o_O,	KEY_e_E,	KEY_u_U,	KEY_i_I,	
-	0,	KEY_z_Z,	KEY_q_Q,	KEY_j_J,	KEY_k_K,	0,	0,	
+	KEY_LeftControl,	KEY_z_Z,	KEY_q_Q,	KEY_j_J,	KEY_k_K,	0,	0,	
 	0,	0,	0,	2,	1,	
 	0,	0,	
-	0,	0,	0,	
+	KEY_Escape,	KEY_Escape,	KEY_Escae,	
 	KEY_DeleteBackspace,	KEY_Tab,	KEY_LeftControl,	
 	// right hand
 	0,	0,	0,	0,	0,	0,	0,	
 	KEY_Escape,	KEY_f_F,	KEY_g_G,	KEY_c_C,	KEY_r_R,	0,	0,	
 	KEY_d_D,	KEY_h_H,	KEY_t_T,	KEY_n_N,	KEY_s_S,	KEY_LeftShift,	
-	0,	0,	KEY_m_M,	KEY_w_W,	KEY_b_B,	KEY_l_L,	0,	
+	0,	0,	KEY_m_M,	KEY_w_W,	KEY_b_B,	KEY_l_L,	KEY_LeftControl,	
 	1,	2,	0,	0,	0,	
 	0,	0,	
-	0,	0,	0,	
+	KEY_Escape,	KEY_Escape,	KEY_Escae,	
 	KEY_LeftAlt,	KEY_ReturnEnter,	KEY_Spacebar	
 ),
 // LAYER 1
