@@ -72,7 +72,7 @@ KB_MATRIX_LAYER(
 	KEY_LeftControl,	KEY_z_Z,	KEY_q_Q,	KEY_j_J,	KEY_k_K,	0,	0,	
 	0,	0,	0,	2,	1,	
 	0,	0,	
-	KEY_Escape,	KEY_Escape,	KEY_Escae,	
+	KEY_Escape,	KEY_Escape,	KEY_Escape,	
 	KEY_DeleteBackspace,	KEY_Tab,	KEY_LeftControl,	
 	// right hand
 	0,	0,	0,	0,	0,	0,	0,	
@@ -81,7 +81,7 @@ KB_MATRIX_LAYER(
 	0,	0,	KEY_m_M,	KEY_w_W,	KEY_b_B,	KEY_l_L,	KEY_LeftControl,	
 	1,	2,	0,	0,	0,	
 	0,	0,	
-	KEY_Escape,	KEY_Escape,	KEY_Escae,	
+	KEY_Escape,	KEY_Escape,	KEY_Escape,	
 	KEY_LeftAlt,	KEY_ReturnEnter,	KEY_Spacebar	
 ),
 // LAYER 1
