@@ -99,7 +99,7 @@ KB_MATRIX_LAYER(
 	0,	0,	0,	
 	// right hand
 	0,	0,	0,	0,	0,	0,	0,	
-	0,	KEY_Backslash_Pipe,	KEY_7_Ampersand,	0x31,	KEY_3_Pound,	0,	0,	
+	0,	KEY_Backslash_Pipe,	KEY_7_Ampersand,	0x31,	KEY_NonUS_Pound_Tilde,	0,	0,	
 	0x2D,	KEY_9_LeftParenthesis,	KEY_LeftBracket_LeftBrace,	KEY_LeftBracket_LeftBrace,	KEYPAD_Slash,	0,	
 	0,	0,	KEY_0_RightParenthesis,	KEY_RightBracket_RightBrace,	KEY_RightBracket_RightBrace,	KEY_2_At,	0,	
 	0,	0,	0,	0,	0,	
@@ -334,7 +334,7 @@ KB_MATRIX_LAYER(
 	ktrans,	ktrans,	ktrans,	
 	// right hand
 	NULL,	NULL,	NULL,	NULL,	NULL,	NULL,	NULL,	
-	ktrans,	kprrel,	sshprre, sshprre, sshprre,	NULL,	NULL,	
+	ktrans,	kprrel,	sshprre, sshprre, kprrel,	NULL,	NULL,	
 	sshprre,	sshprre, kprrel,	sshprre,	kprrel,	ktrans,	
 	NULL,	NULL,	sshprre, kprrel,	sshprre,	sshprre, ktrans,	
 	NULL,	NULL,	NULL,	NULL,	NULL,	
@@ -569,7 +569,7 @@ KB_MATRIX_LAYER(
 	ktrans,	ktrans,	ktrans,	
 	// right hand
 	NULL,	NULL,	NULL,	NULL,	NULL,	NULL,	NULL,	
-	ktrans,	kprrel,	sshprre,	sshprre,	sshprre,	NULL,	NULL,	
+	ktrans,	kprrel,	sshprre,	sshprre,	kprrel,	NULL,	NULL,	
 	sshprre,	sshprre,	kprrel,	sshprre,	sshprre,	ktrans,	
 	NULL,	NULL,	sshprre,	kprrel,	sshprre,	sshprre,	ktrans,	
 	NULL,	NULL,	NULL,	NULL,	NULL,	
