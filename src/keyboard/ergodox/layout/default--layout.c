@@ -68,8 +68,8 @@ KB_MATRIX_LAYER(
 	// left hand
 	0,	0,	0,	0,	0,	0,	0,	
 	KEY_LeftAlt,	0,	KEY_v_V,	KEY_x_X,	KEY_p_P,	KEY_y_Y,	KEY_Escape,	
-	KEY_LeftControl,	KEY_a_A,	KEY_o_O,	KEY_e_E,	KEY_u_U,	KEY_i_I,	
-	KEY_LeftShift,	KEY_z_Z,	KEY_q_Q,	KEY_j_J,	KEY_k_K,	0,	0,	
+	KEY_LeftShift,	KEY_a_A,	KEY_o_O,	KEY_e_E,	KEY_u_U,	KEY_i_I,	
+	KEY_LeftControl,	KEY_z_Z,	KEY_q_Q,	KEY_j_J,	KEY_k_K,	0,	0,	
 	0,	0,	0,	0,	1,	
 	0,	0,	
 	KEY_Escape,	KEY_Escape,	KEY_Escape,	
@@ -77,8 +77,8 @@ KB_MATRIX_LAYER(
 	// right hand
 	0,	0,	0,	0,	0,	0,	0,	
 	KEY_Escape,	KEY_f_F,	KEY_g_G,	KEY_c_C,	KEY_r_R,	0,	KEY_RightAlt,	
-	KEY_d_D,	KEY_h_H,	KEY_t_T,	KEY_n_N,	KEY_s_S,	KEY_LeftControl,	
-	0,	0,	KEY_m_M,	KEY_w_W,	KEY_b_B,	KEY_l_L,	KEY_LeftShift,	
+	KEY_d_D,	KEY_h_H,	KEY_t_T,	KEY_n_N,	KEY_s_S,	KEY_LeftShift,	
+	0,	0,	KEY_m_M,	KEY_w_W,	KEY_b_B,	KEY_l_L,	KEY_LeftControl,	
 	1,	0,	0,	0,	0,	
 	0,	0,	
 	KEY_Escape,	KEY_Escape,	KEY_Escape,	
